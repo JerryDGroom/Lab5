@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1425269040 source:c:\users\jerry groom\desktop\data structures\lab5\listlinked.cpp
+	"ListLinked.h"
+	<iostream>
+
+1425162064 c:\users\jerry groom\desktop\data structures\lab5\listlinked.h
+	<stdexcept>
+	<iostream>
+
+1425145760 source:c:\users\jerry groom\desktop\data structures\lab5\test5.cpp
+	<iostream>
+	"config.h"
+	"ListLinked.cpp"
+
+1425150920 c:\users\jerry groom\desktop\data structures\lab5\config.h
+
+1425269744 c:\users\jerry groom\desktop\data structures\lab5\listlinked.cpp
+	"ListLinked.h"
+	<iostream>
+
+1425263319 source:c:\users\jerry groom\desktop\data structures\lab5\listlinkedchristian.cpp
+	"ListLinked.h"
+	<iostream>
+
